@@ -29,11 +29,11 @@ public class Validation {
 			if(randomNumber == 0) {
 				JOptionPane.showMessageDialog(null, "You're looking pretty swell today :D");
 			} else if(randomNumber == 1) {
-				JOptionPane.showMessageDialog(null, "You're precious");
+				JOptionPane.showMessageDialog(null, "You're quite amazing");
 			} else if(randomNumber == 2) {
-				JOptionPane.showMessageDialog(null, "You're heart is bigger than most others :)");
+				JOptionPane.showMessageDialog(null, "Your heart is bigger than most others :)");
 			} else if(randomNumber == 3) {
-				JOptionPane.showMessageDialog(null, "You're personality is very enjoyable");
+				JOptionPane.showMessageDialog(null, "Your personality is very enjoyable");
 			} else if(randomNumber == 4) {
 				JOptionPane.showMessageDialog(null, "You're the reaason we smile :)");
 			}
